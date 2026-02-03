@@ -40,6 +40,15 @@ The analysis utilizes advanced hierarchical modeling to account for the nested n
 The results provide strong empirical evidence for the **Cognitive Overload** hypothesis. While neurotypical controls (CG) process stereotypical conflict as manageable "noise," dyslexic readers (DG) exhibit a significant increase in processing costs (Log-IES) and a collapse in accuracy, confirming that social bias acts as a technical barrier to cognitive accessibility.
 
 ---
+
+## 📄 Full Report & Documentation
+For a comprehensive theoretical discussion and in-depth data interpretation, the complete thesis is available in this repository:
+
+* **[Full Project Report (PDF)](./Projectwork.pdf)**
+
+Specifically, for a detailed walkthrough of the experimental results, clinical profiling, and statistical interpretations, please refer to:
+* **Chapter 4: Data Analysis and Results (pp. 23-24).**
+---
 **Author:** Chiara Mancuso  
 **Academic Tutor:** Prof.ssa Gloria Gagliardi  
 **Institution:** Alma Mater Studiorum - Università di Bologna
